@@ -1,8 +1,8 @@
 const alternatives = [
   {text:"", images:"https://lh4.googleusercontent.com/y4HCGYcagIzP6R1f6CGiR2uL0h9wDtFKPVBgTEc3oU5IiFqnpzYFRtC5TlwRvQT-oMx4F3G2pzGl3NJ7KjdeSmGsVvyb6ytSkHoAfYi21GF_xE9UWREazIQ-49QyrpKF-A=w128"},
-  {text:"I Promise you it Will be Unforgettable", images:"cat-03.gif"},
+  {text:"I Promise You It Will be Unforgettable", images:"cat-03.gif"},
   {text:"Think Again", images:"cat-04.gif"},
-  {text:"Come on, Dare to Say Yes.", images:"cat-05.gif"},
+  {text:"Come On, Dare to Say Yes.", images:"cat-05.gif"},
   {text:"Don't Let Fear Stop You", images:"cat-01.gif"},
 ]
 const ohyes = {text:"I Knew You Would Accept I Love You", images:"cat-yes.gif"}
